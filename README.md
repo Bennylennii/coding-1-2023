@@ -6,3 +6,5 @@ Classes on replit https://replit.com/@Bennylennii/W11-Classes?v=1
 Lists with functions https://replit.com/@Bennylennii/Lists-with-functions
 
 Adventure 2.0 https://replit.com/@Bennylennii/Adventure-20#main.cpp
+
+Adventure 1.0 https://replit.com/@Bennylennii/Adventure
